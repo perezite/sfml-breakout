@@ -1,2 +1,2 @@
 cd bin
-breakout.exe
+Breakout.exe
